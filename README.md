@@ -20,4 +20,5 @@
 ## Contacts
 
 * [eugene@zamriy.info](mailto:eugene@zamriy.info)
-* `ezamriy` on [AlmaLinux Chat](https://chat.almalinux.org/)
+* [AlmaLinux Chat](https://chat.almalinux.org/): `ezamriy`
+* PGP key: [8594 C39F 6A62 A9FC E7B0 2D9C 5B65 9D38 AF0C B46F](https://keyoxide.org/8594C39F6A62A9FCE7B02D9C5B659D38AF0CB46F)
