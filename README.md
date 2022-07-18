@@ -5,7 +5,7 @@
 
 * Director of Release Engineering at [Cloud Linux Inc.](https://www.cloudlinux.com/)
 * [AlmaLinux OS](https://almalinux.org/) core developer
-* [AlmaLinux OS Foundation](https://almalinux.org/) governing board member
+* ex-[AlmaLinux OS Foundation](https://almalinux.org/) governing board member
 * GNU/Linux and Open Source enthusiast
 
 
