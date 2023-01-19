@@ -3,9 +3,10 @@
 
 ## About
 
-* Director of Release Engineering at [Cloud Linux Inc.](https://www.cloudlinux.com/)
-* [AlmaLinux OS](https://almalinux.org/) core developer
-* ex-[AlmaLinux OS Foundation](https://almalinux.org/) governing board member
+* Chief product architect at [Softline](https://softline.ru/)
+* [AlmaLinux OS](https://almalinux.org/) co-founder and core developer
+* Ex-[AlmaLinux OS Foundation](https://almalinux.org/) governing board member
+* Ex-director of Release Engineering at [Cloud Linux Inc.](https://www.cloudlinux.com/)
 * GNU/Linux and Open Source enthusiast
 
 
